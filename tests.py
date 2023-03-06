@@ -1,4 +1,4 @@
-#Create a unittest for the add function
+#Create a unittest for the all functions
 from math import add
 from math import subtract
 from math import multiply
