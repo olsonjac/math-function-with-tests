@@ -1,6 +1,6 @@
 #Create a function to add numbers together
 def add(x,y):
-    return x + y
+    return x + x
 
 #Create a function to subtract numbers
 def subtract(x,y):
