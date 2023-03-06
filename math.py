@@ -4,7 +4,7 @@ def add(x,y):
 
 #Create a function to subtract numbers
 def subtract(x,y):
-    return x - x
+    return x - y
 
 #Create a function to multiply numbers
 def multiply(x,y):
